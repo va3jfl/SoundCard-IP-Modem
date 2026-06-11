@@ -1,0 +1,4 @@
+numpy>=1.24
+sounddevice>=0.4.6
+# optional, only for --hostif serial:
+# pyserial>=3.5
