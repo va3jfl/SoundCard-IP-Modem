@@ -1,5 +1,5 @@
 # 📻 audiomodem 
-**TCP/IP over a soundcard, up to ~2 Mbit/s**
+**TCP/IP over a soundcard, up to ~2 Mbit/s (1Mbit/s Up/Down)**
 
 > A software modem that turns two PCs' soundcards into a point-to-point network link. It modulates IP packets onto audio with OFDM (DMT), bonds the left and right stereo channels into two parallel lanes, protects everything with Reed-Solomon FEC and an ARQ with fast retransmit, and hands packets to the OS through various virtual interfaces. Written in pure Python + NumPy.
 
@@ -10,7 +10,7 @@
   <a href="screenshot1.jpg" target="_blank">
     <img src="screenshot1.jpg" width="40%" alt="Audiomodem Graphical UI with Constellation Map" style="margin-right: 2%;">
   </a> <br>
-  <a href="screenshot2" target="_blank">
+  <a href="screenshot2.jpg" target="_blank">
     <img src="screenshot2.jpg" width="55%" alt="CLI Selftest Output showing Goodput" style="margin-left: 2%;">
   </a>
 </p>
