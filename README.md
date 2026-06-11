@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="screenshot1.jpg" target="_blank">
-    <img src="screenshot1.jpg" width="50%" alt="Audiomodem Graphical UI with Constellation Map" style="margin-right: 2%;">
+    <img src="screenshot1.jpg" width="40%" alt="Audiomodem Graphical UI with Constellation Map" style="margin-right: 2%;">
   </a> <br>
   <a href="screenshot2" target="_blank">
     <img src="screenshot2.jpg" width="45%" alt="CLI Selftest Output showing Goodput" style="margin-left: 2%;">
