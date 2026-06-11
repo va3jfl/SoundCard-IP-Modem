@@ -7,7 +7,7 @@
 *Click images to expand*
 
 <p align="center">
-  <a href="screenshot.jpg" target="_blank">
+  <a href="screenshot1.jpg" target="_blank">
     <img src="screenshot.jpg" width="45%" alt="Audiomodem Graphical UI with Constellation Map" style="margin-right: 2%;">
   </a>
   <a href="screenshot2" target="_blank">
