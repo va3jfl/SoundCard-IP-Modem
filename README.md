@@ -1,5 +1,6 @@
-<div align="center">📻 audiomodem 
-**TCP/IP over a soundcard, up to ~2 Mbit/s aggregate full-duplex**
+<div align="center">
+  #audiomodem 
+###TCP/IP over a soundcard, up to ~2 Mbit/s aggregate full-duplex
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](#requirements)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
