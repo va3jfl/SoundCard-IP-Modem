@@ -1,11 +1,11 @@
-<center># 📻 audiomodem 
+<div align="center">📻 audiomodem 
 **TCP/IP over a soundcard, up to ~2 Mbit/s aggregate full-duplex**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](#requirements)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20·%20Linux%20·%20macOS-lightgrey)](#requirements)
 
-> A software modem that turns two PCs' soundcards into a point-to-point network link. It modulates IP packets onto audio with OFDM (DMT), bonds the left and right stereo channels into two parallel lanes, protects everything with Reed-Solomon FEC and an ARQ with fast retransmit, and hands packets to the OS through various virtual interfaces. Written in pure Python + NumPy.</center>
+> A software modem that turns two PCs' soundcards into a point-to-point network link. It modulates IP packets onto audio with OFDM (DMT), bonds the left and right stereo channels into two parallel lanes, protects everything with Reed-Solomon FEC and an ARQ with fast retransmit, and hands packets to the OS through various virtual interfaces. Written in pure Python + NumPy.</div>
 
 ### 📸 Screenshots
 *Click images to expand*
