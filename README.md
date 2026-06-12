@@ -10,7 +10,7 @@
 ### 📸 Screenshots
 *Click images to expand*
 
-<p align="center">
+<p align="left">
   <a href="screenshot1.jpg" target="_blank">
     <img src="screenshot1.jpg" width="40%" alt="Audiomodem Graphical UI with Constellation Map" style="margin-right: 2%;">
   </a> <br>
